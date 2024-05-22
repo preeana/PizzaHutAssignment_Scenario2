@@ -1,0 +1,5 @@
+PageObjects\DetailPage_PizzaHut_POM.class
+PageObjects\OrderPage_PizzaHut_POM.class
+PageObjects\CheckOutPage_PizzaHut_POM.class
+PageObjects\HomePage_PizzaHut_POM.class
+Utilities\ExtentReporter.class
